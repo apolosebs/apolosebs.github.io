@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre mí (?)
-permalink: /about/
+permalink: /Hey/
 ---
 
 tengo 2 gatas, ¿debo decir algo más?
@@ -10,6 +10,6 @@ tengo 2 gatas, ¿debo decir algo más?
 
 No sé programar y este blog es la prueba:)
 
-### Contact me
+### no
 
 [email@domain.com](mailto:email@domain.com)
