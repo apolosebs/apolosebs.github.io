@@ -4,12 +4,12 @@ title: Sobre mí (?)
 permalink: /Hey/
 ---
 
-tengo 2 gatas, ¿debo decir algo más?
+no sé programar
 
 ### Más sobre mí !!!
 
-No sé programar y este blog es la prueba:)
+no escribo para que me lean -aunque lo apreciaría-, escribo para ayudarme a conocerme a mí mismo.
 
-### no
+### :)
 
 [email@domain.com](mailto:email@domain.com)
